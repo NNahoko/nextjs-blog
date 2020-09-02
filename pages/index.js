@@ -26,11 +26,18 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          Hello,I'm Nahoko.
-          <br />I live in Tokyo,Japan
-        </p>
+        <p>Hello,I'm Nahoko.</p>
       </section>
+      <section>
+        experience:
+        <br />
+        [Linux, MySQL, ShellScript, PowerShell, AWS etc.]
+        <br />
+        self study:
+        <br />
+        [Ruby, Ruby on Rails, Graphql, Apollo, React, Javascript etc.]
+      </section>
+      <br />
       <AiFillStar />
       <br />
       <Link href="http://nahokov.com">
