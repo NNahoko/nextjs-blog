@@ -35,7 +35,7 @@ export default function Home({ allPostsData }) {
         <br />
         self study:
         <br />
-        [Ruby, Ruby on Rails, Graphql, Apollo, React, Javascript etc.]
+        [Ruby, Ruby on Rails, GraphQL, Apollo, React, Javascript etc.]
       </section>
       <br />
       <AiFillStar />
