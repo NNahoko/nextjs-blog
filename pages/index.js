@@ -49,7 +49,7 @@ export default function Home({ allPostsData }) {
         <p>
           Use in My Portfolio
           <br />
-          [Ruby on Rails, Graphql, Apollo Client, React]
+          [Ruby on Rails, GraphQL, Apollo Client, React]
         </p>
       </section>
       <IconContext.Provider value={{ color: "black", size: "2em" }}>
